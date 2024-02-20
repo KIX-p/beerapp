@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Browarapp</string>
+    <string-array name="rodzaje">
+        <item>Przeniczne</item>
+        <item>Jasne</item>
+        <item>Ciemne</item>
+    </string-array>
+</resources>
